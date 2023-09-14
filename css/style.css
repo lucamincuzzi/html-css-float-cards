@@ -13,3 +13,15 @@ body {
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto', sans-serif;
 }
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1 {
+    margin-top: 3rem;
+    font-size: 3rem;
+    text-align: center;
+    color: hsl(339deg 77.59% 54.51%);
+}
